@@ -1,4 +1,4 @@
-# CAB401-Fourier-Transform-Parallelisation
+# Fourier-Transform-Parallelisation
 This is a project that explores the analysis and parallelisation of an existing sequential program.
 
 ## Project Overview
